@@ -1,5 +1,5 @@
 
- ## Full Stack Web(Laravel,Vue,React,Node.js)Developer
+ ## FullStack & Blockchain Developer
 ![profile views](./doc/profileview.svg)
 
 <p align="center">
