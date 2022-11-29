@@ -12,7 +12,7 @@
 
 ### :woman_technologist: &nbsp;About Me :
 
-I am php and javascript developer who majors in Laravel,Vue,React,Node.js <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+I am php and javascript developer who majors in React, Laravel, Vue, Node.js <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 
 - ⚡ I am currently working remotely.
 - 🔭 I’m working as a Software Engineer and contributing to frontend and backend for building web and mobile app applications.
@@ -45,7 +45,7 @@ I am php and javascript developer who majors in Laravel,Vue,React,Node.js <img s
 
 ❤️ **I'm passionate about:**
 
-I am Laravel backend & Vue,React frontend developer
+I am Vue, React frontend developer & Laravel backend.
   I have 6+ years of experience writing Full Stack web sites and flutter mobile applications. 
   As a full stack developer, my main programming language is Javascript, laravel, PHP, Python. I have good experience with ❤️Next.js❤️, Nuxt, typescript, ❤️web3❤️. 
   Particularly React and Vue is my ❤️ framework and also I have rich experenice on express and laravel backend. 
