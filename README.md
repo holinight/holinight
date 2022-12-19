@@ -39,22 +39,6 @@ Kouto Kamio is a well-rounded Full-Stack developer passionate about developing q
 
 ---
 
-
-
-
-#### Vue.js 
-##### [Online-Shopping](http://www.mikiyakobayashi.com/)
-<a href="http://www.mikiyakobayashi.com/" target="_blank">
-     <img src="./images/httpwww.mikiyakobayashi.png" style="width: 100%;"/>
- </a>
- <br/>
-
-#### Frontend Design(NFT Marketplaces) 
-##### [Pocoland](https://pocoland.com/nft-market)
-<a href="https://pocoland.com/nft-market" target="_blank">
-     <img src="./images/pocoland.png" />
- </a>
-
 #### MERN stack 
 ##### [Online-shopping(clothes)](https://www.protest.eu/)
 <a href="https://www.protest.eu">
@@ -62,7 +46,13 @@ Kouto Kamio is a well-rounded Full-Stack developer passionate about developing q
  </a>
  <br/>
 
-#### Frontend Design(Defi, NFT Staking, NFT Marketplace)
+#### Blockchain Developer(NFT Marketplaces) 
+##### [Pocoland](https://pocoland.com/nft-market)
+<a href="https://pocoland.com/nft-market" target="_blank">
+     <img src="./images/pocoland.png" />
+ </a>
+
+#### Blockchain Developer(Defi, NFT Staking, NFT Marketplace)
  <div>
   <a href='https://dex.treedefi.com/' target='_blank'>
   <img src='./project/treedefi_dex.png' width='32%'></img>
@@ -74,3 +64,11 @@ Kouto Kamio is a well-rounded Full-Stack developer passionate about developing q
   <img src='./project/treedefi_nftstaking.png' width='32%'></img>
   </a>
 </div>
+
+#### Vue.js 
+##### [Online-Shopping](http://www.mikiyakobayashi.com/)
+<a href="http://www.mikiyakobayashi.com/" target="_blank">
+     <img src="./images/httpwww.mikiyakobayashi.png" style="width: 100%;"/>
+ </a>
+ <br/>
+
