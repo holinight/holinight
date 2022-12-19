@@ -47,9 +47,9 @@ Kouto Kamio is a well-rounded Full-Stack developer passionate about developing q
  <br/> -->
 
 #### Blockchain Developer(NFT Marketplaces) 
-##### [Pocoland](https://pocoland.com/nft-market)
-<a href="https://pocoland.com/nft-market" target="_blank">
-     <img src="./images/pocoland.png" />
+##### [CryptoZoon](https://app.cryptozoon.io/)
+<a href="https://app.cryptozoon.io" target="_blank">
+     <img src="./images/CryptoZoon.jpg" />
  </a>
 
 #### Blockchain Developer(Defi, NFT Staking, NFT Marketplace)
