@@ -12,7 +12,7 @@
 
 ### :woman_technologist: &nbsp;About Me :
 
-Kouto Kamio is a well-rounded Full-Stack developer passionate about developing quality software. He focuses on building products and his diverse skill set allows him to tackle any challenge. His major front-end skill is React, while on the back-end he has experience with Express Framework and Ruby on Rails. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+Holinight is a well-rounded Full-Stack developer passionate about developing quality software. He focuses on building products and his diverse skill set allows him to tackle any challenge. His major front-end skill is React, while on the back-end he has experience with Express Framework and Ruby on Rails. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 
 ---
 
