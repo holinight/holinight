@@ -39,12 +39,12 @@ Kouto Kamio is a well-rounded Full-Stack developer passionate about developing q
 
 ---
 
-#### MERN stack 
+<!-- #### MERN stack 
 ##### [Online-shopping(clothes)](https://www.protest.eu/)
 <a href="https://www.protest.eu">
      <img src="./images/httpswww.protest.eu.png" style="width: 100%;" target="_blank"/>
  </a>
- <br/>
+ <br/> -->
 
 #### Blockchain Developer(NFT Marketplaces) 
 ##### [Pocoland](https://pocoland.com/nft-market)
@@ -65,10 +65,10 @@ Kouto Kamio is a well-rounded Full-Stack developer passionate about developing q
   </a>
 </div>
 
-#### Vue.js 
+<!-- #### Vue.js 
 ##### [Online-Shopping](http://www.mikiyakobayashi.com/)
 <a href="http://www.mikiyakobayashi.com/" target="_blank">
      <img src="./images/httpwww.mikiyakobayashi.png" style="width: 100%;"/>
- </a>
+ </a> -->
  <br/>
 
